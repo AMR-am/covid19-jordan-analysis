@@ -16,7 +16,7 @@
 
 ##  التقنيات المستخدمة
 
-- Python 3
+- Python 
 - Pandas و NumPy لتحليل البيانات
 - Seaborn و Matplotlib للرسم البياني
 - Plotly لإنشاء رسوم تفاعلية
