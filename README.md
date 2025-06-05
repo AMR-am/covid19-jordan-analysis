@@ -42,5 +42,5 @@
 ### تحميل المشروع
 
 ```bash
-git clone https://github.com/username/covid19-jordan-analysis.git
+git clone https://github.com/AMR-am/covid19-jordan-analysis.git
 cd covid19-jordan-analysis
